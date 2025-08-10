@@ -229,7 +229,7 @@ int main() {
     printf("\n");
     display_max_heap(max_heap1);
     
-    printf("\n" + "=" * 50 + "\n\n");
+
     
     // Test with another array
     int arr2[] = {4, 10, 3, 5, 1, 15, 20, 7, 8, 2};
@@ -251,7 +251,7 @@ int main() {
     display_max_heap(max_heap2);
     
     // Test with user input
-    printf("\n" + "=" * 50 + "\n");
+   
     printf("Enter your own array:\n");
     
     int n;
